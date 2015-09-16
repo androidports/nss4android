@@ -1,0 +1,5 @@
+repo: a4b34919bf34db2ee22acbbc305693c8980b6dc6
+node: a79384724f5c56f0ed99ab18fe705c757aee2c8f
+branch: default
+latesttag: NSPR_4_10_RTM
+latesttagdistance: 1
